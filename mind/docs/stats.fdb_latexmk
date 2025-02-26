@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1734012798.86002 "/home/yani/Bureau/the_mind/stats.tex" "stats.pdf" "stats" 1734012799.13963 0
+  "/home/yani/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1734012688.69612 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "/home/yani/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1727277216.2712 11941070 9539988a00fd913b147cb33fb5a35775 ""
+  "/home/yani/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty" 1734012688.42811 6253 71987c78d3b294f5a70855024b9b06cc ""
+  "/home/yani/Bureau/the_mind/stats.tex" 1734012798.14128 575 66e6fe25e14dc0a2ce37684e0c6052f7 ""
+  "/usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1727276575.42161 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/share/miktex-texmf/tex/latex/base/article.cls" 1727276587.75767 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
+  "/usr/local/share/miktex-texmf/tex/latex/base/size10.clo" 1727276587.75367 8448 358bf3de18513f057a13bdc6e6770c41 ""
+  "/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def" 1727276584.04165 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/usr/local/share/miktex-texmf/tex/latex/tools/longtable.sty" 1727276584.40965 15033 652f156c2f139501300900190cae68c4 ""
+  "stats.aux" 1734012799.05324 291 ce2579c3c7444a33abbc4d22fd737216 "pdflatex"
+  "stats.tex" 1734012798.14128 575 66e6fe25e14dc0a2ce37684e0c6052f7 ""
+  (generated)
+  "stats.aux"
+  "stats.log"
+  "stats.pdf"
+  (rewritten before read)

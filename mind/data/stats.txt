@@ -1,0 +1,6 @@
+1 1 24 3.2050
+2 1 28 3.7400
+Total	2	2	-
+Meilleure Partie	1	-	3.2050
+Pire Partie	2	-	3.7400
+Temps de Réaction Moyen	-	-	0.0003
